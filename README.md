@@ -4,7 +4,7 @@ Rest api using Node, Express, Mongo.
 We will build rest api for a simple file sharing app. 
 
 ### Frontend source code can be found on EasyShare - frontend repo
-https://github.com/ShivamJoker/InShare
+https://github.com/adityadev31/EasyShare-frontend
 
 
 ## Installation 
